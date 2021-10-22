@@ -4,4 +4,4 @@ This Project helps us to Extract all the Data of different players who played in
 This Project is made using JavaScript language. Cheerio module has been used for scrapping the website which is a Node.js library and helps working using j-Query like syntax. Data is being read and written in excel files using xlsx module of npm.
 
 <--To run the code-->
-npm home.js
+node home.js
